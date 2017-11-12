@@ -7,9 +7,9 @@ In this project I configured __Linux server__ hosted on AWS and deployed my __Us
 
 ### Server Info
 - Virtual Server: [Amazon Lightsail](https://amazonlightsail.com/)
-- Public IP: 52.32.47.125
+- Public IP: 34.215.251.86
 - SSH Port: 2200
-- Live At: http://ec2-52-32-47-125.us-west-2.compute.amazonaws.com/
+- Live At: http://ec2-34-215-251-86.us-west-2.compute.amazonaws.com/
 
 __NOTE:__ Below is summary of step taken to configure the server. Check __References__ section for details.
 
