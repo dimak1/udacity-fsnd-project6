@@ -1,4 +1,4 @@
-# Project 6 - Linux Server Configuration - Full Stack Web Developer ND Program
+# Linux Server Configuration
 
 Sixth project from Udacity's [Full-Stack Web Developer Nanodegree Program](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
