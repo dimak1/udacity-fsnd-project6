@@ -9,9 +9,9 @@ In this project I configured __Linux server__ hosted on AWS and deployed my __Us
 - Virtual Server: [Amazon Lightsail](https://amazonlightsail.com/)
 - Public IP: 34.215.251.86
 - SSH Port: 2200
-- Live At: http://ec2-34-215-251-86.us-west-2.compute.amazonaws.com/
+- Live no more...
 
-__NOTE:__ Below is summary of step taken to configure the server. Check __References__ section for details.
+__NOTE:__ Below is summary of steps taken to configure the server. Check __References__ section for details.
 
 ### High-Level Steps
 1. Create new user, generate public key and login into server
